@@ -1,0 +1,11 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+    background-color: #2D25A0;
+    
+}
+.navbar a {
+    color: white;
+}
